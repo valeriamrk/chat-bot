@@ -31,7 +31,6 @@ export const requestChatAsync = createAsyncThunk(
         cuid: params.cuid,
         text: params.message,
       });
-      console.log(response.data);
       return response.data;
     } catch (error) {
       return rejectWithValue(error.response.data);
