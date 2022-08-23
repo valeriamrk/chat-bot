@@ -6,6 +6,8 @@
 
 ChatBot is a program that simulates a real conversation with a user.
 
+DEMO: https://chat-bot-ivory.vercel.app/
+
 Used technology stack:
 
 - React
